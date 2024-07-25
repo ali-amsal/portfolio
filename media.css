@@ -1,0 +1,10 @@
+/* 2sx@sxw */
+
+@media screen and (max-width: 1200px){
+    #desktop-nav{
+        display: none;
+    }
+    #ham-nav{
+        display: flex;
+    }
+}
